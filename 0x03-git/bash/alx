@@ -1,4 +1,8 @@
 #!/bin/bash
+<<<<<<< HEAD
 <<<<<<< .merge_file_4vTWIx
 echo "ALX School is so cool!"
 >>>>>>> .merge_file_bfWdAF
+=======
+echo "ALX School"
+>>>>>>> update_script
